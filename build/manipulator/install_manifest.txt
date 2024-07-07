@@ -1,0 +1,17 @@
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/launch/display.launch.py
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/urdf/model.urdf
+/home/sakib/ws_manipulator/install/manipulator/share/ament_index/resource_index/package_run_dependencies/manipulator
+/home/sakib/ws_manipulator/install/manipulator/share/ament_index/resource_index/parent_prefix_path/manipulator
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/environment/ament_prefix_path.sh
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/environment/ament_prefix_path.dsv
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/environment/path.sh
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/environment/path.dsv
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/local_setup.bash
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/local_setup.sh
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/local_setup.zsh
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/local_setup.dsv
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/package.dsv
+/home/sakib/ws_manipulator/install/manipulator/share/ament_index/resource_index/packages/manipulator
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/cmake/manipulatorConfig.cmake
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/cmake/manipulatorConfig-version.cmake
+/home/sakib/ws_manipulator/install/manipulator/share/manipulator/package.xml
